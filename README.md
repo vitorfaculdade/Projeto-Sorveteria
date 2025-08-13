@@ -1,1 +1,1 @@
-Para a modelagem do projeto, foi usado as migrates para criar tres tabelas no banco de dados, tabela produtos, clientes e compras, elas atendem por completo as demandas do sitema da sorveteria. Utilizamos os seeders para popular as tabelas com as informaçoes necessarias
+Para a modelagem do projeto, foi usado as migrates para criar tres tabelas no banco de dados, tabela produtos, clientes e compras, elas atendem por completo as demandas do sitema da sorveteria. Utilizamos os seeders para popular as tabelas com as informaçoes necessarias.
